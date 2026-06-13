@@ -23,11 +23,11 @@ This project performs real-time object detection and tracking using the YOLOv8 d
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/CodeAlpha_ObjectDetectionTracking.git
+git clone https://github.com/jayashreejbharathi-boop/CodeAlpha_ObejctTracking.git
 
 Move into the project folder:
 
-cd CodeAlpha_ObjectDetectionTracking
+cd CodeAlpha_ObjectTracking
 
 Install dependencies:
 
